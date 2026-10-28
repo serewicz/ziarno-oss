@@ -27,6 +27,8 @@ Each course is one Saturday. Every course folder has an outline, a timed agenda,
 | 2 | [Beginning AI with open-source tools](courses/02-open-source-ai/) | Run a small open model on a cheap laptop, with no cloud account, and build a simple "ask your documents" tool |
 | 3 | [How to train others](courses/03-how-to-train/) | Teach adults, run a hands-on lab, and plan your own cascade |
 
+For self-paced study, the [curriculum](curriculum/) has 12 modules, from FOSS basics to InnerSource, community building, AI workflows, and funding.
+
 The [trainer kit](trainer-kit/) has a cascade plan, a session checklist, and feedback forms.
 
 ## Built for low bandwidth

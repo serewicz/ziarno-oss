@@ -21,6 +21,10 @@ Create a small national Open Source Program Office (OSPO) to own the effort. Its
 
 Use the TODO Group (https://todogroup.org), the Linux Foundation community for OSPOs, as the model. It publishes free guides on starting and running an OSPO, and its members can mentor a new office.
 
+### Practice InnerSource first
+
+Before any team works in public, have it practice InnerSource: open-source ways of working, but only inside the ministry. Teams share code in an internal repository, review each other's changes, and write decisions down. Name a Trusted Committer for each shared project (the person who reviews and accepts changes and mentors newcomers) and a few InnerSource Champions who help other teams start. The OSPO sets the rules and decides when an InnerSource project is ready to release in public. Mistakes stay private while people learn. See [curriculum module 6](curriculum/06-innersource/) and [InnerSource Commons](https://innersourcecommons.org/).
+
 ## 3. Move a low-importance function first
 
 Choose a function where a mistake is cheap and nobody's safety, money, or rights are at risk, such as an internal wiki, meeting scheduling, a document archive, or an internal help desk.
