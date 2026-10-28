@@ -53,4 +53,21 @@ By the end you will be able to:
 | [Open WebUI (browser chat for Ollama)](https://github.com/open-webui/open-webui) | See repo license |
 | [Principles for Digital Development](https://digitalprinciples.org/) | CC BY-SA 4.0 |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) | Google | Free | CC BY 4.0 (text); vendor examples |
+| [Microsoft Learn: AI fundamentals](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/) | Microsoft | Free (account optional) | Vendor terms; uses Azure |
+| [Generative AI for Beginners (Microsoft, GitHub)](https://github.com/microsoft/generative-ai-for-beginners) | Microsoft | Free | MIT |
+| [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/) | DeepLearning.AI | Free with an account | Vendor terms |
+| [IBM SkillsBuild](https://skillsbuild.org/) | IBM | Free with an account | Vendor terms |
+| [AWS Skill Builder (free courses)](https://skillbuilder.aws/) | AWS | Free with an account (some paid) | Vendor terms; uses AWS |
+| [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) | Google | Free tier with an account (some paid) | Vendor terms; uses Google Cloud |
+| [Kaggle Learn](https://www.kaggle.com/learn) | Kaggle | Free with an account | Vendor terms (Google) |
+| [Elements of AI (University of Helsinki)](https://www.elementsofai.com/) | Elements of AI | Free | Course terms |
+
 Links checked October 2026. If one breaks, please open an issue.

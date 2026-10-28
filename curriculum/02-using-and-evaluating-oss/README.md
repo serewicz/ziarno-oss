@@ -48,4 +48,16 @@ By the end you will be able to:
 | [OSV vulnerability database](https://osv.dev/) | Data CC BY 4.0 |
 | [Open Source Guides: Best Practices for Maintainers](https://opensource.guide/best-practices/) | CC BY 4.0 |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [OpenSSF Scorecard (check a project's health)](https://scorecard.dev/) | OpenSSF | Free | Apache 2.0 |
+| [CHAOSS community health metrics](https://chaoss.community/) | CHAOSS | Free | CC BY-SA / MIT (per project) |
+| [Red Hat: What is open source?](https://www.redhat.com/en/topics/open-source/what-is-open-source) | Red Hat | Free | Vendor terms |
+| [Python Package Index (judge a package's maintenance)](https://pypi.org/) | Python Software Foundation | Free | PSF terms |
+
 Links checked October 2026. If one breaks, please open an issue.

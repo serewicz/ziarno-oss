@@ -54,4 +54,17 @@ By the end you will be able to:
 | [choosealicense.com license comparison table](https://choosealicense.com/appendix/) | CC BY 3.0 |
 | [Linux Foundation LFC191: Open Source Licensing Basics for Software Developers (free)](https://training.linuxfoundation.org/training/open-source-licensing-basics-for-software-developers/) | Free course; LF terms, not openly licensed |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [What is open source? (freeCodeCamp guide)](https://www.freecodecamp.org/news/what-is-open-source-software-explained-in-plain-english/) | freeCodeCamp | Free | freeCodeCamp terms |
+| [The Apache Way](https://www.apache.org/theapacheway/) | Apache Software Foundation | Free | Apache License 2.0 site content |
+| [Eclipse Foundation open source rules and governance](https://www.eclipse.org/projects/handbook/) | Eclipse Foundation | Free | EPL 2.0 (per handbook) |
+| [UNESCO Recommendation on Open Science](https://www.unesco.org/en/open-science) | UNESCO | Free | UNESCO terms |
+| [Open Source Archetypes (Mozilla and Open Tech Strategies, PDF)](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) | Mozilla | Free | CC BY-SA 4.0 |
+
 Links checked October 2026. If one breaks, please open an issue.

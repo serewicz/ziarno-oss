@@ -53,4 +53,18 @@ By the end you will be able to:
 | [Linux Foundation LFC102: Inclusive Open Source Community Orientation (free)](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/) | Free course; LF terms |
 | [CHAOSS community health metrics](https://chaoss.community/kb-metrics-and-metrics-models/) | See site |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [Open Source Guides: Building Welcoming Communities](https://opensource.guide/building-community/) | GitHub | Free | CC BY 4.0 |
+| [The Carpentries Handbook](https://docs.carpentries.org/) | The Carpentries | Free | CC BY 4.0 |
+| [PSF Code of Conduct](https://policies.python.org/python.org/code-of-conduct/) | Python Software Foundation | Free | CC BY-SA 3.0 |
+| [OpenInfra user groups](https://openinfra.org/) | OpenInfra Foundation | Free | OpenInfra terms |
+| [Open Source Community Africa (OSCA)](https://oscafrica.org/) | Africa: Open Source Community Africa | Free | Community site |
+| [Open Source Archetypes (Mozilla and Open Tech Strategies, PDF)](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) | Mozilla | Free | CC BY-SA 4.0 |
+
 Links checked October 2026. If one breaks, please open an issue.

@@ -48,4 +48,16 @@ By the end you will be able to:
 | [Teaching Tech Together, Greg Wilson](https://teachtogether.tech/) | CC BY-NC 4.0 |
 | [Software Carpentry: Git lesson (an example of a well-built lesson)](https://swcarpentry.github.io/git-novice/) | CC BY 4.0 |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [The Carpentries Instructor Training curriculum](https://carpentries.github.io/instructor-training/) | The Carpentries | Free | CC BY 4.0 |
+| [Teaching Tech Together (Greg Wilson)](https://teachtogether.tech/) | Teaching Tech Together | Free | CC BY-NC 4.0 |
+| [edX (audit courses free)](https://www.edx.org/) | edX | Free to audit | Course terms |
+| [Coursera (audit option on many courses)](https://www.coursera.org/) | Coursera | Free to audit (some) | Course terms |
+
 Links checked October 2026. If one breaks, please open an issue.

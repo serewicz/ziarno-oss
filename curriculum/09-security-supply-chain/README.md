@@ -53,4 +53,18 @@ By the end you will be able to:
 | [Syft](https://github.com/anchore/syft) | Apache-2.0 |
 | [Linux Foundation LFD121: Developing Secure Software (free)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/) | Free course; LF terms |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [OpenSSF free courses (Secure Software Development)](https://openssf.org/training/courses/) | OpenSSF | Free | Course terms; CC BY (some) |
+| [OWASP Top Ten](https://owasp.org/www-project-top-ten/) | OWASP | Free | CC BY-SA 4.0 |
+| [SLSA supply-chain framework](https://slsa.dev/) | SLSA | Free | CC BY 4.0 |
+| [Sigstore docs](https://docs.sigstore.dev/) | Sigstore | Free | Apache 2.0 |
+| [CNCF Cloud Native Security Whitepaper](https://github.com/cncf/tag-security) | CNCF | Free | Apache 2.0 |
+| [Kubernetes security docs](https://kubernetes.io/docs/concepts/security/) | Kubernetes | Free | CC BY 4.0 |
+
 Links checked October 2026. If one breaks, please open an issue.

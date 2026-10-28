@@ -49,4 +49,18 @@ By the end you will be able to:
 | [Sovereign Tech Agency](https://sovereign.tech/) | See site |
 | [Producing Open Source Software: Money chapter](https://producingoss.com/) | CC BY-SA 4.0 |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [Open Source Guides: Getting Paid](https://opensource.guide/getting-paid/) | GitHub | Free | CC BY 4.0 |
+| [Sovereign Tech Agency (Germany)](https://www.sovereign.tech/) | Sovereign Tech Agency | Free | Public info |
+| [NLnet Foundation grants (Europe)](https://nlnet.nl/) | NLnet | Free | Public info |
+| [Open Collective docs](https://documentation.opencollective.com/) | Open Collective | Free | CC BY-SA 4.0 |
+| [ASF: How the ASF works](https://www.apache.org/foundation/how-it-works/) | Apache Software Foundation | Free | Apache License 2.0 |
+| [OpenInfra Foundation](https://openinfra.org/about/) | OpenInfra Foundation | Free | OpenInfra terms |
+
 Links checked October 2026. If one breaks, please open an issue.

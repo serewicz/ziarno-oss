@@ -56,4 +56,18 @@ By the end you will be able to:
 | [Open Source Guides: How to Contribute](https://opensource.guide/how-to-contribute/) | CC BY 4.0 |
 | [Linux Foundation LFD102: A Beginner's Guide to Open Source Software Development (free)](https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/) | Free course; LF terms |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [GitHub Skills (free interactive courses)](https://skills.github.com/) | GitHub | Free with a GitHub account | MIT (course repos); vendor platform |
+| [Open Source Guides: How to Contribute](https://opensource.guide/how-to-contribute/) | GitHub | Free | CC BY 4.0 |
+| [GitLab docs: Getting started](https://docs.gitlab.com/user/get_started/) | GitLab | Free | CC BY-SA 4.0 |
+| [How to contribute to freeCodeCamp](https://contribute.freecodecamp.org/) | freeCodeCamp | Free | BSD-3-Clause |
+| [Software Carpentry: Version control with Git](https://swcarpentry.github.io/git-novice/) | The Carpentries | Free | CC BY 4.0 |
+| [Python Developer's Guide](https://devguide.python.org/) | Python Software Foundation | Free | CC0 / PSF terms |
+
 Links checked October 2026. If one breaks, please open an issue.

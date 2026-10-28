@@ -48,4 +48,18 @@ By the end you will be able to:
 | [GovStack](https://www.govstack.global/) | See site |
 | [Standard for Public Code](https://standard.publiccode.net/) | CC0 |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [DPG Registry](https://www.digitalpublicgoods.net/registry) | Digital Public Goods Alliance | Free | DPGA terms |
+| [DPG Standard](https://digitalpublicgoods.net/standard/) | DPGA | Free | CC BY-SA 4.0 |
+| [GovStack building blocks](https://www.govstack.global/) | GovStack | Free | CC BY-SA 4.0 |
+| [UNESCO Open Educational Resources](https://www.unesco.org/en/open-educational-resources) | UNESCO | Free | UNESCO terms |
+| [MOSIP (open-source identity, India-founded)](https://www.mosip.io/) | Asia | Free | MPL 2.0 |
+| [DHIS2 Academy](https://dhis2.org/academy/) | Africa/Global | Free (online) | BSD-3 software; course terms |
+
 Links checked October 2026. If one breaks, please open an issue.

@@ -51,4 +51,15 @@ By the end you will be able to:
 | [InnerSource Patterns](https://patterns.innersourcecommons.org/) | CC BY-SA 4.0 |
 | [InnerSource Commons books](https://innersourcecommons.org/learn/books/) | Varies; several free |
 
+
+## More free resources from across tech
+
+Vendor-neutral where possible. Vendor material is labeled. Links checked October 2026.
+
+| Resource | Provider | Cost | License or terms |
+|---|---|---|---|
+| [InnerSource Commons learning path](https://innersourcecommons.org/learn/learning-path/) | InnerSource Commons | Free | CC BY-SA 4.0 |
+| [InnerSource Patterns](https://patterns.innersourcecommons.org/) | InnerSource Commons | Free | CC BY-SA 4.0 |
+| [GitHub InnerSource resources](https://resources.github.com/innersource/fundamentals/) | GitHub | Free | Vendor terms |
+
 Links checked October 2026. If one breaks, please open an issue.

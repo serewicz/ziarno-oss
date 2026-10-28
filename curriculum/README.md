@@ -43,3 +43,5 @@ The order follows [HOW-TO-START.md](../HOW-TO-START.md): learn the basics, pract
 
 ## License
 This curriculum is CC BY 4.0. Linked resources keep their own licenses.
+
+See [RESOURCES.md](RESOURCES.md) for every free resource, grouped by provider.
