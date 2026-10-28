@@ -1,0 +1,21 @@
+PROJECT_NAME uses two licenses.
+
+1. CONTENT (course text, slides, labs, guides, forms, images):
+   Creative Commons Attribution 4.0 International (CC BY 4.0).
+   Full text: LICENSES/CC-BY-4.0.txt
+   https://creativecommons.org/licenses/by/4.0/
+
+2. CODE (scripts, sample programs, config files):
+   Apache License, Version 2.0.
+   Full text: LICENSES/Apache-2.0.txt
+   https://www.apache.org/licenses/LICENSE-2.0
+
+WHY TWO LICENSES
+Software licenses are written for code, and they fit training content poorly.
+CC BY 4.0 is made for creative and educational work: anyone may copy, translate,
+adapt, and teach from it, even commercially, as long as they give credit.
+Apache-2.0 is a well-known software license that also includes a patent grant,
+which matters for code that people will run and build on.
+
+If a file is code, Apache-2.0 applies. Everything else is CC BY 4.0.
+How to give credit: "Based on PROJECT_NAME (link to this repository), CC BY 4.0."
