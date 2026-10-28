@@ -62,6 +62,6 @@ Vendor-neutral where possible. Vendor material is labeled. Links checked October
 | [TODO Group OSPO guides](https://todogroup.org/resources/guides/) | TODO Group | Free | CC BY-SA 4.0 |
 | [OSPO Alliance Good Governance Initiative (Europe)](https://ospo-alliance.org/) | OSPO Alliance | Free | CC BY 4.0 (GGI handbook) |
 | [Eclipse Foundation Project Handbook](https://www.eclipse.org/projects/handbook/) | Eclipse Foundation | Free | EPL 2.0 (per handbook) |
-| [UK Government Service Manual: open source](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) | Government | Free | Open Government Licence v3.0 |
+| [UK Government Service Manual: open source](https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable) | UK Government Digital Service | Free | Open Government Licence v3.0 |
 
 Links checked October 2026. If one breaks, please open an issue.

@@ -8,13 +8,13 @@ An index of the free learning resources used across the Ziarno Open Source curri
 |---|---|---|---|
 | [AWS Skill Builder (free courses)](https://skillbuilder.aws/) | Free with an account (some paid) | Vendor terms; uses AWS | [07-ai-improve-workflow](07-ai-improve-workflow/README.md) |
 
-## Africa/Global
+## DHIS2 (University of Oslo)
 
 | Resource | Cost | License or terms | Module |
 |---|---|---|---|
 | [DHIS2 Academy](https://dhis2.org/academy/) | Free (online) | BSD-3 software; course terms | [10-dpg-and-sovereignty](10-dpg-and-sovereignty/README.md) |
 
-## Africa: Open Source Community Africa
+## Open Source Community Africa
 
 | Resource | Cost | License or terms | Module |
 |---|---|---|---|
@@ -27,7 +27,7 @@ An index of the free learning resources used across the Ziarno Open Source curri
 | [The Apache Way](https://www.apache.org/theapacheway/) | Free | Apache License 2.0 site content | [01-what-is-foss](01-what-is-foss/README.md) |
 | [ASF: How the ASF works](https://www.apache.org/foundation/how-it-works/) | Free | Apache License 2.0 | [12-sustaining-funding](12-sustaining-funding/README.md) |
 
-## Asia
+## MOSIP
 
 | Resource | Cost | License or terms | Module |
 |---|---|---|---|
@@ -51,7 +51,7 @@ An index of the free learning resources used across the Ziarno Open Source curri
 |---|---|---|---|
 | [Coursera (audit option on many courses)](https://www.coursera.org/) | Free to audit (some) | Course terms | [11-teaching-adults-cascades](11-teaching-adults-cascades/README.md) |
 
-## DPGA
+## Digital Public Goods Alliance (standard)
 
 | Resource | Cost | License or terms | Module |
 |---|---|---|---|
@@ -111,7 +111,7 @@ An index of the free learning resources used across the Ziarno Open Source curri
 |---|---|---|---|
 | [GovStack building blocks](https://www.govstack.global/) | Free | CC BY-SA 4.0 | [10-dpg-and-sovereignty](10-dpg-and-sovereignty/README.md) |
 
-## Government
+## UK Government Digital Service
 
 | Resource | Cost | License or terms | Module |
 |---|---|---|---|
@@ -225,7 +225,7 @@ An index of the free learning resources used across the Ziarno Open Source curri
 | [OpenSSF Scorecard (check a project's health)](https://scorecard.dev/) | Free | Apache 2.0 | [02-using-and-evaluating-oss](02-using-and-evaluating-oss/README.md) |
 | [OpenSSF free courses (Secure Software Development)](https://openssf.org/training/courses/) | Free | Course terms; CC BY (some) | [09-security-supply-chain](09-security-supply-chain/README.md) |
 
-## PyTorch / Meta
+## PyTorch Foundation (started by Meta)
 
 | Resource | Cost | License or terms | Module |
 |---|---|---|---|

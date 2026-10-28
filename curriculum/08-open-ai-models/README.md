@@ -59,7 +59,7 @@ Vendor-neutral where possible. Vendor material is labeled. Links checked October
 | [Hugging Face LLM Course](https://huggingface.co/learn/llm-course) | Hugging Face | Free | Apache 2.0 |
 | [Hugging Face Agents Course](https://huggingface.co/learn/agents-course) | Hugging Face | Free | Apache 2.0 |
 | [NVIDIA Deep Learning Institute: free self-paced courses](https://www.nvidia.com/en-us/training/online/) | NVIDIA | Free with an account (some paid) | Vendor terms; uses NVIDIA GPUs |
-| [PyTorch tutorials](https://docs.pytorch.org/tutorials/) | PyTorch / Meta | Free | BSD-3-Clause |
+| [PyTorch tutorials](https://docs.pytorch.org/tutorials/) | PyTorch Foundation (started by Meta) | Free | BSD-3-Clause |
 | [Practical Deep Learning for Coders](https://course.fast.ai/) | fast.ai | Free | Apache 2.0 (notebooks) |
 | [OpenVINO notebooks](https://github.com/openvinotoolkit/openvino_notebooks) | Intel | Free | Apache 2.0; tuned for Intel hardware |
 | [Ollama](https://ollama.com/) | Ollama | Free | MIT |

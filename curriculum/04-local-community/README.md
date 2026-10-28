@@ -64,7 +64,7 @@ Vendor-neutral where possible. Vendor material is labeled. Links checked October
 | [The Carpentries Handbook](https://docs.carpentries.org/) | The Carpentries | Free | CC BY 4.0 |
 | [PSF Code of Conduct](https://policies.python.org/python.org/code-of-conduct/) | Python Software Foundation | Free | CC BY-SA 3.0 |
 | [OpenInfra user groups](https://openinfra.org/) | OpenInfra Foundation | Free | OpenInfra terms |
-| [Open Source Community Africa (OSCA)](https://oscafrica.org/) | Africa: Open Source Community Africa | Free | Community site |
+| [Open Source Community Africa (OSCA)](https://oscafrica.org/) | Open Source Community Africa | Free | Community site |
 | [Open Source Archetypes (Mozilla and Open Tech Strategies, PDF)](https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf) | Mozilla | Free | CC BY-SA 4.0 |
 
 Links checked October 2026. If one breaks, please open an issue.
