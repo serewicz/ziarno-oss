@@ -6,7 +6,7 @@ Free, open training that helps technology leaders in emerging countries train ot
 
 ## How to start
 
-See [HOW-TO-START.md](HOW-TO-START.md) for the national playbook: start with practitioners, set up a national open source office, then move the lowest-risk functions first.
+See [PROGRAMS.md](PROGRAMS.md) for free and paid programs, and [HOW-TO-START.md](HOW-TO-START.md) for the national playbook: start with practitioners, set up a national open source office, then move the lowest-risk functions first.
 
 ## Why it matters
 When a country's schools, governments, and businesses run on closed, foreign-owned tools, they pay ongoing license fees, lose control of their data, and depend on decisions made elsewhere. Open source changes that. Anyone can study it, run it, fix it, and build on it. What is often missing is not the software. It is people at home who know it well and can teach it.

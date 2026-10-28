@@ -24,7 +24,9 @@ Every module has learning objectives, a lesson outline, a hands-on exercise with
 | 10 | [Digital public goods and sovereignty](10-dpg-and-sovereignty/) | Leader | 3 |
 | 11 | [Teaching adults and running train-the-trainer cascades](11-teaching-adults-cascades/) | Leader | 5 |
 | 12 | [Sustaining and funding open source](12-sustaining-funding/) | Leader | 3 |
-| | **Total** | | **50** |
+| | **Total** | | **54** |
+
+Hours by level: Foundation 10, Practitioner 24, Leader 16.
 
 ## Suggested paths
 - **Everyone:** 1, 2, 3.
