@@ -46,6 +46,26 @@ The order is the strategy:
 4. Next function moved, using the lessons
 5. Repeat, climbing toward critical systems
 
+## Example ladder
+
+These are examples, not rules. Each country should rank its own functions by risk. Common open-source options are listed for each rung.
+
+| Rung | Risk | Example functions | Example open-source tools |
+|---|---|---|---|
+| 1 | Lowest | Internal wiki and knowledge base, team chat, meeting scheduling | Wiki.js or BookStack, Mattermost or Matrix (Element), Cal.com |
+| 2 | Low | Internal help desk tickets, intranet website, staff surveys | Zammad or osTicket, WordPress or Drupal, LimeSurvey |
+| 3 | Low-medium | Office documents and file sharing, video meetings | LibreOffice, Nextcloud, Jitsi or BigBlueButton |
+| 4 | Medium | Email and calendar for staff, project tracking | Zimbra or Open-Xchange, OpenProject or Taiga |
+| 5 | Medium-high | Public websites for ministries, open data portal, public forms | Drupal, CKAN, Formbricks |
+| 6 | High | Procurement, HR, and internal finance | Odoo Community or ERPNext |
+| 7 | Highest | Citizen records, health, tax, and identity systems | Proven digital public goods such as OpenMRS, DHIS2, and MOSIP, chosen with the national OSPO |
+
+At every rung:
+
+- Run old and new systems side by side until people trust the new one.
+- Keep an exit plan to roll back.
+- Record the lessons before moving up.
+
 ## Why this order works
 
 - Early wins are cheap and visible.
