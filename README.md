@@ -1,4 +1,6 @@
-# PROJECT_NAME
+# Ziarno Open Source
+
+*Plant open source, grow it local.*
 
 Free, open training that helps technology leaders in emerging countries train others, and move their countries from big-tech dependence to open source.
 

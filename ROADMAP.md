@@ -17,7 +17,7 @@
 - [ ] Publish what worked and what did not
 
 ## Possible partners
-**These are possibilities only. None of these groups has endorsed or agreed to work with PROJECT_NAME.** They are listed because their public missions seem close to ours, and we may contact them.
+**These are possibilities only. None of these groups has endorsed or agreed to work with Ziarno Open Source.** They are listed because their public missions seem close to ours, and we may contact them.
 
 - Digital Public Goods Alliance: promotes open-source digital public goods.
 - UNDP (United Nations Development Programme): digital development work in many countries.

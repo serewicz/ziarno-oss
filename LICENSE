@@ -1,4 +1,4 @@
-PROJECT_NAME uses two licenses.
+Ziarno Open Source uses two licenses.
 
 1. CONTENT (course text, slides, labs, guides, forms, images):
    Creative Commons Attribution 4.0 International (CC BY 4.0).
@@ -18,4 +18,4 @@ Apache-2.0 is a well-known software license that also includes a patent grant,
 which matters for code that people will run and build on.
 
 If a file is code, Apache-2.0 applies. Everything else is CC BY 4.0.
-How to give credit: "Based on PROJECT_NAME (link to this repository), CC BY 4.0."
+How to give credit: "Based on Ziarno Open Source (link to this repository), CC BY 4.0."

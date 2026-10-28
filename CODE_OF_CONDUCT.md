@@ -17,6 +17,6 @@ We want every session and every discussion to be welcoming to people of every co
 The lead facilitator is the contact person for the day. Say their name at the start.
 
 ## Reporting
-Email the maintainers at: CONTACT_EMAIL (to be set). Reports are kept private. We may warn, remove, or ban people who break this code.
+Email the maintainers at: tim@serewicz.com (to be set). Reports are kept private. We may warn, remove, or ban people who break this code.
 
 This code is adapted in spirit from the Contributor Covenant (https://www.contributor-covenant.org/).
