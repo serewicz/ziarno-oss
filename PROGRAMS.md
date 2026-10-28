@@ -10,7 +10,7 @@ We want to be open about how Ziarno Open Source works, including how it pays for
 ## Paid
 
 - **Additional instructor-led training** in other courses, for countries that want to train more people. Prices are reasonable and can scale with a country's income level.
-- **Any module, live.** Tim or a qualified partner trainer can teach any module in this curriculum as live instructor-led training (ILT), onsite or online. This paid training is how we fund the free work.
+- **Live training, where allowed.** Tim or a qualified partner trainer may be able to teach some modules as live instructor-led training (ILT), onsite or online. Ziarno's own content can be taught freely. Material from other organizations is linked, not copied, and stays under its owner's terms. Some providers don't allow their content to be used in paid training, and we respect that. Where a provider offers its own instructor-led or partner program, we'll point you to it. Paid training helps fund the free work.
 
 ## Introductions
 
